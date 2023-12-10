@@ -7,19 +7,17 @@ Hi there, I'm thiendang 👋 (Đặng Hoàng Thiên)
 </h3>
 
 <h2 align="center">
-I'm a Software Engineer (Front-End) 💻, and a Tech Enthusiast 🚀!
+I'm a Software Engineer (Frontend) 💻, and a Tech Enthusiast 🚀!
 </h2>
 
 I'm passionate about software development, creating websites, building scalable frontend, crafting cloud solutions. I thrive on connecting with like-minded individuals and continuously expanding my knowledge in the field. My enthusiasm lies in the art of problem-solving and uncovering hidden insights, constantly pushing the boundaries of what's possible.
 
-## 🔭 I'm currently working on
-
-- I’m currently working on Next and React.
-
-## 🌱 I'm currently learning
-
-- AWS Solution Architect Associate
-- Golang
+- 🔭 I’m currently working on Next and React.
+- ⚡ I'm currently learning AWS Solution Architect Associate
+- 👯 I’m looking to collaborate on Frontend projects.
+- 🤔 I’m looking for help with some project idea.
+- 💬 Ask me about Tech Stuff 💻
+- 📫 How to reach me: thiendh310@gmail.com
 
 ## 💼 Technical Skills
 
@@ -64,8 +62,20 @@ I'm passionate about software development, creating websites, building scalable 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/thiendang/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a href="mailto:thiendh310@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 
 
 ## 📈 GitHub Stats 
 
-[![Kavi's github stats](https://github-readme-stats.vercel.app/api?username=thiendang)](https://github.com/thiendang) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiendang&layout=compact)](https://github.com/thiendang)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiendang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiendang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thiendang/thiendang/output/snake.svg" alt="Snake animation" />
+
+###
