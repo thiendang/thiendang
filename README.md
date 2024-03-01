@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="dev.gif"  />
+  <img width="200" height="150" src="dev.gif"  />
 </div>
 
 <h3 align="center">
@@ -64,8 +64,7 @@ I'm passionate about software development, creating websites, building scalable 
 <a href="https://www.linkedin.com/in/thiendang/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 <a href="mailto:thiendh310@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 
-
-## 📈 Github Stats 
+## 📈 Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiendang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
